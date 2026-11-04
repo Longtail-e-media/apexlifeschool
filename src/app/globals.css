@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Apex Life School palette — taken from the logo (maroon + leaf green) and the school bus (yellow) */
+  --color-paper: #fbf5e8;
+  --color-ink: #1f1215;
+  --color-maroon: #701425;
+  --color-maroon-deep: #4a0b14;
+  --color-leaf: #0a8f3f;
+  --color-leaf-deep: #076b2f;
+  --color-sun: #f4b61a;
+  --color-blush: #f3e1da;
+  --color-mint: #dcecd6;
+  --color-note: #fff0a6;
+
+  /* Fonts are loaded in app/layout.tsx via next/font */
+  --font-display: var(--font-source-serif), Georgia, serif;
+  --font-body: var(--font-nunito), system-ui, sans-serif;
+  --font-hand: var(--font-caveat), cursive;
+}
+
+body {
+  font-family: var(--font-nunito), system-ui, sans-serif;
+}
+
+/* Notebook paper: faint ruled lines */
+.ruled {
+  background-image: repeating-linear-gradient(to bottom, transparent 0 31px, rgba(112, 20, 37, 0.07) 31px 32px);
+}

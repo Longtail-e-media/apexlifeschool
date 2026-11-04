@@ -1,0 +1,786 @@
+[
+ {
+  "file": "/apex/brand/logo.png",
+  "source": "https://apexlifeschool.edu.np/images/logo.png",
+  "pages": [
+   "aboutus",
+   "activities",
+   "album-11551",
+   "album-11552",
+   "album-632",
+   "album-700",
+   "contactus",
+   "events",
+   "facilities",
+   "gallery",
+   "history",
+   "home",
+   "message-from-chairperson",
+   "message-from-principal",
+   "news",
+   "news-3294",
+   "news-3296",
+   "news-3479",
+   "notice"
+  ],
+  "status": "ok",
+  "bytes": 10690
+ },
+ {
+  "file": "/apex/brand/heroImage.jpeg",
+  "source": "https://apexlifeschool.edu.np/images/heroImage.jpeg",
+  "pages": [
+   "aboutus",
+   "activities",
+   "album-11551",
+   "album-11552",
+   "album-632",
+   "album-700",
+   "contactus",
+   "events",
+   "facilities",
+   "gallery",
+   "history",
+   "message-from-chairperson",
+   "message-from-principal",
+   "news",
+   "news-3294",
+   "news-3296",
+   "news-3479",
+   "notice"
+  ],
+  "status": "ok",
+  "bytes": 447489
+ },
+ {
+  "file": "/apex/icons/DrsFWXwDQco5x3oK-1741064037.png",
+  "source": "https://veda-app.s3.ap-south-1.amazonaws.com/assets/157/gallery/2025-03-04/DrsFWXwDQco5x3oK-1741064037.png",
+  "pages": [
+   "aboutus",
+   "activities",
+   "album-11551",
+   "album-11552",
+   "album-632",
+   "album-700",
+   "events",
+   "facilities",
+   "gallery",
+   "history",
+   "home",
+   "message-from-chairperson",
+   "message-from-principal",
+   "news",
+   "news-3294",
+   "news-3296",
+   "news-3479",
+   "notice"
+  ],
+  "status": "ok",
+  "bytes": 1784
+ },
+ {
+  "file": "/apex/icons/TbM1IW2BQxGdpWys-1741064037.png",
+  "source": "https://veda-app.s3.ap-south-1.amazonaws.com/assets/157/gallery/2025-03-04/TbM1IW2BQxGdpWys-1741064037.png",
+  "pages": [
+   "aboutus",
+   "activities",
+   "album-11551",
+   "album-11552",
+   "album-632",
+   "album-700",
+   "events",
+   "facilities",
+   "gallery",
+   "history",
+   "home",
+   "message-from-chairperson",
+   "message-from-principal",
+   "news",
+   "news-3294",
+   "news-3296",
+   "news-3479",
+   "notice"
+  ],
+  "status": "ok",
+  "bytes": 1890
+ },
+ {
+  "file": "/apex/facilities/UUa1Dl56Wt02d8Hk-1740040100.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-02-20/UUa1Dl56Wt02d8Hk-1740040100.jpg",
+  "pages": [
+   "activities"
+  ],
+  "status": "ok",
+  "bytes": 150788
+ },
+ {
+  "file": "/apex/facilities/BLDM8cRT1x6t2ovT-1740040047.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-02-20/BLDM8cRT1x6t2ovT-1740040047.jpg",
+  "pages": [
+   "activities"
+  ],
+  "status": "ok",
+  "bytes": 71815
+ },
+ {
+  "file": "/apex/facilities/mtn6D6s5QRX4p9iB-1740039907.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-02-20/mtn6D6s5QRX4p9iB-1740039907.jpg",
+  "pages": [
+   "activities"
+  ],
+  "status": "ok",
+  "bytes": 234857
+ },
+ {
+  "file": "/apex/gallery/E6RxAV71IsSiQC2k-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/E6RxAV71IsSiQC2k-1740042186.jpg",
+  "pages": [
+   "album-11551",
+   "gallery"
+  ],
+  "status": "ok",
+  "bytes": 127878
+ },
+ {
+  "file": "/apex/gallery/7IP4CK3h3gCCOrRL-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/7IP4CK3h3gCCOrRL-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 107862
+ },
+ {
+  "file": "/apex/gallery/zmnBYnjExjg4C7Wq-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/zmnBYnjExjg4C7Wq-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 134369
+ },
+ {
+  "file": "/apex/gallery/LiLURBXzIQzPdVR8-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/LiLURBXzIQzPdVR8-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 74759
+ },
+ {
+  "file": "/apex/gallery/ESeuBYuEFHPqbjoB-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/ESeuBYuEFHPqbjoB-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 116017
+ },
+ {
+  "file": "/apex/gallery/w6X1x25rhe9lZSLU-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/w6X1x25rhe9lZSLU-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 123768
+ },
+ {
+  "file": "/apex/gallery/YQZnDidKBv7etjRD-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/YQZnDidKBv7etjRD-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 141191
+ },
+ {
+  "file": "/apex/gallery/mu8tDlAYyApj8xXi-1740042186.jpeg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/mu8tDlAYyApj8xXi-1740042186.jpeg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 96410
+ },
+ {
+  "file": "/apex/gallery/HJkCL80eVk60mn6u-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/HJkCL80eVk60mn6u-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 160326
+ },
+ {
+  "file": "/apex/gallery/SoEtC74f4oSbjDPn-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/SoEtC74f4oSbjDPn-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 144680
+ },
+ {
+  "file": "/apex/gallery/dxbzoTbERa0r1YaO-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/dxbzoTbERa0r1YaO-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 147276
+ },
+ {
+  "file": "/apex/gallery/rmyY27KMHqdOZJp9-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/rmyY27KMHqdOZJp9-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 159400
+ },
+ {
+  "file": "/apex/gallery/uxcsuHVz5QpRTJ7u-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/uxcsuHVz5QpRTJ7u-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 96766
+ },
+ {
+  "file": "/apex/gallery/gPT90FJPeGv1Ll5d-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/gPT90FJPeGv1Ll5d-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 188293
+ },
+ {
+  "file": "/apex/gallery/06jJLnmntrsQzV6y-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/06jJLnmntrsQzV6y-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 144262
+ },
+ {
+  "file": "/apex/gallery/2PkPkBsOCuqxeye0-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/2PkPkBsOCuqxeye0-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 159336
+ },
+ {
+  "file": "/apex/gallery/XGYKInPZQTygvWZw-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/XGYKInPZQTygvWZw-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 126775
+ },
+ {
+  "file": "/apex/gallery/KCFktGCRX4UupEsT-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/KCFktGCRX4UupEsT-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 177730
+ },
+ {
+  "file": "/apex/gallery/tU8fX2bY5forkElQ-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/tU8fX2bY5forkElQ-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 61437
+ },
+ {
+  "file": "/apex/gallery/gNc8esCO72mDetjz-1740042186.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/gNc8esCO72mDetjz-1740042186.jpg",
+  "pages": [
+   "album-11551"
+  ],
+  "status": "ok",
+  "bytes": 141489
+ },
+ {
+  "file": "/apex/gallery/9NAzxVnj02zjYTSG-1765251203.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-12-09/9NAzxVnj02zjYTSG-1765251203.jpg",
+  "pages": [
+   "album-11552",
+   "gallery"
+  ],
+  "status": "ok",
+  "bytes": 345590
+ },
+ {
+  "file": "/apex/gallery/y0HaAEtcRZW1633G-1765251045.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-12-09/y0HaAEtcRZW1633G-1765251045.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 435178
+ },
+ {
+  "file": "/apex/gallery/yhtmsUg88uOcbdZ8-1765250991.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-12-09/yhtmsUg88uOcbdZ8-1765250991.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 561103
+ },
+ {
+  "file": "/apex/gallery/SybtZodYKAWG8DpS-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/SybtZodYKAWG8DpS-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 157282
+ },
+ {
+  "file": "/apex/gallery/gRinZCIANnl2sYCS-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/gRinZCIANnl2sYCS-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 121939
+ },
+ {
+  "file": "/apex/gallery/aRqRjXaaxTNpNnvb-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/aRqRjXaaxTNpNnvb-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 134776
+ },
+ {
+  "file": "/apex/gallery/zUIM2CxOMue4apsW-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/zUIM2CxOMue4apsW-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 69264
+ },
+ {
+  "file": "/apex/gallery/9tPbvPcZ3FdSF15e-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/9tPbvPcZ3FdSF15e-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 124405
+ },
+ {
+  "file": "/apex/gallery/q6rP1a5k8cIPM0vP-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/q6rP1a5k8cIPM0vP-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 9765
+ },
+ {
+  "file": "/apex/gallery/NKlZpshDsxQdSCjX-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/NKlZpshDsxQdSCjX-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 115623
+ },
+ {
+  "file": "/apex/gallery/WMAGGA5mviNtqDOx-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/WMAGGA5mviNtqDOx-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 127900
+ },
+ {
+  "file": "/apex/gallery/kxRNoWxwWGkY2OY6-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/kxRNoWxwWGkY2OY6-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 100500
+ },
+ {
+  "file": "/apex/gallery/wTkSwQdVAhJgnShk-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/wTkSwQdVAhJgnShk-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 98278
+ },
+ {
+  "file": "/apex/gallery/1US3FuDsbgd3wKzV-1740042138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/1US3FuDsbgd3wKzV-1740042138.jpg",
+  "pages": [
+   "album-11552"
+  ],
+  "status": "ok",
+  "bytes": 209276
+ },
+ {
+  "file": "/apex/facilities/hPtnYW14h2yUFUsK-1741319809.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-03-07/hPtnYW14h2yUFUsK-1741319809.jpg",
+  "pages": [
+   "facilities",
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 115613
+ },
+ {
+  "file": "/apex/facilities/edOGMWf6TD1venFO-1741318671.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-03-07/edOGMWf6TD1venFO-1741318671.jpg",
+  "pages": [
+   "facilities",
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 110570
+ },
+ {
+  "file": "/apex/facilities/MyOifdSGEiFzHs4r-1741318638.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-03-07/MyOifdSGEiFzHs4r-1741318638.jpg",
+  "pages": [
+   "facilities",
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 169242
+ },
+ {
+  "file": "/apex/facilities/Y1WSCBKBol1tPUzb-1741318263.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-03-07/Y1WSCBKBol1tPUzb-1741318263.jpg",
+  "pages": [
+   "facilities",
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 84492
+ },
+ {
+  "file": "/apex/facilities/ifMQTlOval9Nn3IR-1741318304.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-03-07/ifMQTlOval9Nn3IR-1741318304.jpg",
+  "pages": [
+   "facilities",
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 89646
+ },
+ {
+  "file": "/apex/facilities/Jgdj50umpGK6UBtF-1741318577.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/facility/2025-03-07/Jgdj50umpGK6UBtF-1741318577.jpg",
+  "pages": [
+   "facilities",
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 111178
+ },
+ {
+  "file": "/apex/news/EsObJZx2Gkq6Myk1-1771325135.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/news/2026-02-17/EsObJZx2Gkq6Myk1-1771325135.jpg",
+  "pages": [
+   "home",
+   "news",
+   "news-3479"
+  ],
+  "status": "ok",
+  "bytes": 95596
+ },
+ {
+  "file": "/apex/video/ilVOIoi.mp4",
+  "source": "https://i.imgur.com/ilVOIoi.mp4",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 9428184
+ },
+ {
+  "file": "/apex/video/xTqwM8R.mp4",
+  "source": "https://i.imgur.com/xTqwM8R.mp4",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 12087131
+ },
+ {
+  "file": "/apex/gallery/iuKycRXvAWcqXBTN-1765264138.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-12-09/iuKycRXvAWcqXBTN-1765264138.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 187652
+ },
+ {
+  "file": "/apex/gallery/IK6oY2LQNCUh5Hww-1741581341.png",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-10/IK6oY2LQNCUh5Hww-1741581341.png",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 13656
+ },
+ {
+  "file": "/apex/gallery/6rff4reHlxv37wsc-1741581341.jpeg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-10/6rff4reHlxv37wsc-1741581341.jpeg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 187789
+ },
+ {
+  "file": "/apex/brand/director.png",
+  "source": "https://apexlifeschool.edu.np/images/director.png",
+  "pages": [
+   "home",
+   "message-from-chairperson"
+  ],
+  "status": "ok",
+  "bytes": 136201
+ },
+ {
+  "file": "/apex/life/bPbBYBCLeBBoTAZn-1741941190.png",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/blogs/2025-03-14/bPbBYBCLeBBoTAZn-1741941190.png",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 766238
+ },
+ {
+  "file": "/apex/life/yNetaWKgbt9TSJ9g-1741941190.gif",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/blogs/2025-03-14/yNetaWKgbt9TSJ9g-1741941190.gif",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 4577389
+ },
+ {
+  "file": "/apex/life/UQalqqSX1Z0QvpPr-1741941136.png",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/blogs/2025-03-14/UQalqqSX1Z0QvpPr-1741941136.png",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 730757
+ },
+ {
+  "file": "/apex/life/wOEwONRu1VSOPMkx-1741941136.gif",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/blogs/2025-03-14/wOEwONRu1VSOPMkx-1741941136.gif",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 2184297
+ },
+ {
+  "file": "/apex/life/GkEM1DsIPb12VX06-1741691837.png",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/blogs/2025-03-11/GkEM1DsIPb12VX06-1741691837.png",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 750989
+ },
+ {
+  "file": "/apex/life/pS7UpJ8r9oaj6zBL-1741691837.gif",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/blogs/2025-03-11/pS7UpJ8r9oaj6zBL-1741691837.gif",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 2558938
+ },
+ {
+  "file": "/apex/gallery/PPMhHLL1MK1NxDUs-1741321393.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-07/PPMhHLL1MK1NxDUs-1741321393.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 455647
+ },
+ {
+  "file": "/apex/gallery/rrRgBbi8PpX2qcls-1741321378.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-07/rrRgBbi8PpX2qcls-1741321378.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 289042
+ },
+ {
+  "file": "/apex/gallery/WGJA5Htt6rURUhiK-1741321368.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-07/WGJA5Htt6rURUhiK-1741321368.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 486325
+ },
+ {
+  "file": "/apex/gallery/NyPSpPjAgcgK69QP-1741321368.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-07/NyPSpPjAgcgK69QP-1741321368.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 258535
+ },
+ {
+  "file": "/apex/gallery/LW7XCyqbFZJqGjaM-1740042349.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/LW7XCyqbFZJqGjaM-1740042349.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 103168
+ },
+ {
+  "file": "/apex/gallery/DnL0ykGz7DoMHhcD-1740042349.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/DnL0ykGz7DoMHhcD-1740042349.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 82819
+ },
+ {
+  "file": "/apex/gallery/228EmAVgVobtrB3e-1740042349.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/228EmAVgVobtrB3e-1740042349.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 86258
+ },
+ {
+  "file": "/apex/gallery/CvbZjooUICU2YLoE-1740042349.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/CvbZjooUICU2YLoE-1740042349.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 61737
+ },
+ {
+  "file": "/apex/gallery/RpVmr9rfLlaS88nF-1740042349.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/RpVmr9rfLlaS88nF-1740042349.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 121515
+ },
+ {
+  "file": "/apex/gallery/JmwL5TxGTtw6KU7N-1740042349.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-02-20/JmwL5TxGTtw6KU7N-1740042349.jpg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 13938
+ },
+ {
+  "file": "/apex/docs/RHQSn1dsToQ7Br78-1742204737.pdf",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/downloads/2025-03-17/RHQSn1dsToQ7Br78-1742204737.pdf",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 5147702
+ },
+ {
+  "file": "/apex/gallery/SBWs5uKVfbPvpr6l-1742188770.png",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-17/SBWs5uKVfbPvpr6l-1742188770.png",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 114879
+ },
+ {
+  "file": "/apex/gallery/joyvZY4Xn3co6041-1741951825.jpeg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-14/joyvZY4Xn3co6041-1741951825.jpeg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 315004
+ },
+ {
+  "file": "/apex/gallery/W25Jb7sjFBf3AuHV-1740981849.png",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-03/W25Jb7sjFBf3AuHV-1740981849.png",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 43686
+ },
+ {
+  "file": "/apex/gallery/NcgfzKebAFyYHIR9-1741951825.jpeg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-14/NcgfzKebAFyYHIR9-1741951825.jpeg",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 283758
+ },
+ {
+  "file": "/apex/gallery/EU5uB0gZEgVpHWBI-1740981849.png",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/gallery/2025-03-03/EU5uB0gZEgVpHWBI-1740981849.png",
+  "pages": [
+   "home"
+  ],
+  "status": "ok",
+  "bytes": 39488
+ },
+ {
+  "file": "/apex/news/zV4oGglkAEHv31OX-1765263472.jpg",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/news/2025-12-09/zV4oGglkAEHv31OX-1765263472.jpg",
+  "pages": [
+   "news",
+   "news-3294"
+  ],
+  "status": "ok",
+  "bytes": 104298
+ },
+ {
+  "file": "/apex/news/pB7Wf4pKLCNADwRk-1765275024.pdf",
+  "source": "https://s3.veda-app.com/veda-app/assets/157/news/2025-12-09/pB7Wf4pKLCNADwRk-1765275024.pdf",
+  "pages": [
+   "news",
+   "news-3296"
+  ],
+  "status": "ok",
+  "bytes": 238870
+ }
+]
