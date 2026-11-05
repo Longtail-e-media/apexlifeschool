@@ -134,7 +134,7 @@ export default function Video({ src }: { src?: string }) {
           </h2>
           <p
             ref={paraRef}
-            className="mt-14 max-w-2xl text-base leading-relaxed text-white/90 will-change-transform sm:text-lg lg:text-xl"
+            className="mt-25 max-w-2xl text-base leading-relaxed text-white/90 will-change-transform sm:text-lg lg:text-xl"
             style={{ opacity: 0 }}
           >
             Apex Life School is a warm, well-equipped school in Chabahil,

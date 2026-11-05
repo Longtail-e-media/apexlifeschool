@@ -26,7 +26,7 @@ export const brand = {
   eDigitalApply: "https://edigitalnepal.com/g/apply/apex",
   prospectus: "/apex/docs/RHQSn1dsToQ7Br78-1742204737.pdf",
   playStore: "https://play.google.com/store/apps/details?id=com.smart.als",
-  appStore: "https://apps.apple.com/us/app/apex-life-school/id1614213522",
+  appStore: "https://apps.apple.com/np/app/smart-apex-life-school/id6764262274",
   playStoreBadge: "/apex/icons/DrsFWXwDQco5x3oK-1741064037.png",
   appStoreBadge: "/apex/icons/TbM1IW2BQxGdpWys-1741064037.png",
   appPromo: "/apex/gallery/SBWs5uKVfbPvpr6l-1742188770.png",
