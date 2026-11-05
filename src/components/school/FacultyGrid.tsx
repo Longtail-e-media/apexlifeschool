@@ -64,7 +64,7 @@ export default function FacultyGrid({ categories }: { categories: FacultyCategor
                   <Portrait member={m} sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw" className={hasDetails ? "transition duration-300 group-hover:scale-105" : ""} />
                   <div className="absolute inset-0 bg-linear-to-t from-ink/85 via-ink/20 to-transparent" aria-hidden="true" />
                   <div className="absolute inset-x-0 bottom-0 p-5 pb-6 text-paper">
-                    <p className="font-display text-2xl font-bold leading-tight">{m.name}</p>
+                    <p className="font-display text-lg font-bold leading-tight">{m.name}</p>
                     <p className="mt-1 text-sm leading-snug">{m.role}</p>
                   </div>
                   <span className={`absolute inset-x-0 bottom-0 h-2 ${bars[i % bars.length]}`} aria-hidden="true" />
