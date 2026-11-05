@@ -23,8 +23,18 @@ export async function getMenuType(type: number): Promise<NavItem[]> {
   return toNav(group?.items ?? []);
 }
 
+const FACULTY_LINK = "/faculty-staff";
+
+/** Makes sure Faculty & Staff sits under the About Us submenu even if the CMS menu doesn't list it yet. */
 export async function getMainMenu(): Promise<NavItem[]> {
-  return getMenuType(1);
+  const menu = await getMenuType(1);
+  const has = (items: NavItem[]): boolean => items.some((i) => i.link === FACULTY_LINK || (i.subLinks ? has(i.subLinks) : false));
+  if (has(menu)) return menu;
+  return menu.map((m) =>
+    m.link === "/about-us" && m.subLinks?.length
+      ? { ...m, subLinks: [...m.subLinks, { id: "faculty-staff", title: "Faculty & Staff", link: FACULTY_LINK }] }
+      : m,
+  );
 }
 
 export async function getFooterMenu(): Promise<NavItem[]> {

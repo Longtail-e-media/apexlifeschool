@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { site } from "@/lib/site";
+import { getSlideshowVideo } from "@/lib/cms";
 import Hero from "@/components/school/home/Hero";
 import About from "@/components/school/home/About";
 import Glance from "@/components/school/home/Glance";
@@ -10,7 +11,8 @@ import News from "@/components/school/home/News";
 import Admission from "@/components/school/home/Admission";
 import AppPromo from "@/components/school/home/AppPromo";
 import Faq from "@/components/school/home/Faq";
-import Nearby from "@/components/school/home/Nearby"; 
+import Nearby from "@/components/school/home/Nearby";
+import Video from "@/components/school/home/Video";
 
 export const metadata: Metadata = {
   title: { absolute: `${site.name} — ${site.tagline} | Chabahil, Kathmandu` },
@@ -23,14 +25,16 @@ export const metadata: Metadata = {
   },
 };
 
-export default function Home() {
+export default async function Home() {
+  const videoSrc = await getSlideshowVideo().catch(() => undefined);
+
   // Order = a parent's journey, following the main menu:
   // who we are -> proof -> school life -> facilities -> people -> news -> app -> questions -> where we are -> apply.
   // Section backgrounds alternate cream / white / mint down the page.
   return (
     <>
-      <Hero />
-      {/* <QuickLinks /> */}
+      <Video src={videoSrc} />
+      {/* <Hero /> */}
       <About />
       <Glance />
       <Activities />

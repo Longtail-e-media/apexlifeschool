@@ -2,7 +2,6 @@ import ApplyLink from "./ApplyLink";
 import { links } from "@/lib/site";
 import { getMainMenu, getSocial, getSiteRegulars } from "@/lib/cms";
 import Logo from "./Logo";
-import HeaderNav from "./HeaderNav";
 import MenuOverlay from "./MenuOverlay";
 
 const tel = (p: string) => `tel:${p.replace(/[^+\d]/g, "")}`;
@@ -63,10 +62,9 @@ export default async function SiteHeader() {
       <header className="sticky top-0 z-50 border-b border-ink/10 bg-paper">
         <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
           <Logo priority />
-          <HeaderNav menu={mainMenu} />
           <div className="flex items-center gap-3">
             <ApplyLink
-              href={links.admissionForm}
+              href="#"
               className="hidden rounded-md bg-maroon px-5 py-2.5 text-sm font-bold text-paper transition hover:bg-maroon-deep sm:block"
             >
               Apply now

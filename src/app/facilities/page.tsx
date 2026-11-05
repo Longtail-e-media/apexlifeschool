@@ -40,7 +40,7 @@ export default async function FacilitiesPage() {
               </div>
             </figure>
             <div>
-              <p className="font-hand text-2xl leading-none text-maroon">0{i + 1}</p>
+              <p className="font-hand text-5xl leading-none text-maroon">0{i + 1}</p>
               <h2 className="mt-1 font-display text-2xl font-semibold sm:text-3xl">{f.title}</h2>
               <p className="mt-4 leading-8 text-ink/75">{f.text}</p>
             </div>

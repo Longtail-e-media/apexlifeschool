@@ -19,7 +19,7 @@ export default function AppPromo() {
       />
 
       <div className="min-w-0">
-        <p className="font-hand text-2xl leading-none text-maroon">School app</p>
+        <p className="font-hand text-5xl leading-none text-maroon">School app</p>
         <h2 className="mt-1 font-display text-2xl font-semibold leading-snug sm:text-3xl">School life, in your pocket</h2>
         <p className="mt-3 max-w-lg text-ink/70">Get notices and school updates on Google Play or the App Store.</p>
         <div className="mt-5 flex flex-wrap items-center gap-3">

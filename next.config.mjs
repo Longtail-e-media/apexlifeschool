@@ -43,6 +43,7 @@ const nextConfig = {
     dangerouslyAllowLocalIP: process.env.NODE_ENV !== "production",
     remotePatterns: [
       ...cmsImagePattern,
+      { protocol: "https", hostname: "mayurstay.com", pathname: "/apexlifeschool/**" },
       { protocol: "https", hostname: "s3.veda-app.com" },
       { protocol: "https", hostname: "veda-app.s3.ap-south-1.amazonaws.com" },
     ],

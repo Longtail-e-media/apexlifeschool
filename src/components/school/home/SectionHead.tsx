@@ -16,7 +16,7 @@ export default function SectionHead({
   return (
     <div className="flex flex-col justify-between gap-3 sm:flex-row sm:items-end">
       <div>
-        <p className="font-hand text-2xl leading-none text-maroon">{eyebrow}</p>
+        <p className="font-hand text-5xl leading-none text-maroon">{eyebrow}</p>
         <h2 className="mt-1 max-w-2xl font-display text-2xl font-semibold leading-snug sm:text-3xl">{title}</h2>
       </div>
       {href && (

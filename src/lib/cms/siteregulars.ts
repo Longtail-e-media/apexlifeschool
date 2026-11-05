@@ -51,6 +51,6 @@ export async function getSiteRegulars(): Promise<SiteRegulars | null> {
     brief: data.brief?.trim() || null,
     logo: data.logo_upload?.trim() || null,
     footerLogo: data.footer_logo_upload?.trim() || null,
-    hours: "Sun – Fri: 8:15 AM – 4:30 PM, Saturday: Closed",
+    hours: "Mon – Fri: 8:15 AM – 4:30 PM, Saturday & Sunday Closed",
   };
 }

@@ -102,7 +102,7 @@ export const news = [
     title: "Admissions are open for 2083",
     excerpt: "Send your child’s details through the admission form to begin.",
     image: "/apex/news/EsObJZx2Gkq6Myk1-1771325135.jpg",
-    link: "https://www.ingrails.com/school/admission/form/apex-life-school",
+    link: "/admission-form",
   },
   {
     id: 3296,

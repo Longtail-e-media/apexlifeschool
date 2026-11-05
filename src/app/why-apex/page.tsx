@@ -58,7 +58,7 @@ export default async function WhyApexPage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6">
           <div className="grid gap-8 lg:grid-cols-[1fr_1.3fr] lg:gap-14">
             <div>
-              <p className="font-hand text-2xl leading-none text-maroon">Apex Life Practices</p>
+              <p className="font-hand text-5xl leading-none text-maroon">Apex Life Practices</p>
               <h2 className="mt-1 font-display text-2xl font-semibold leading-snug sm:text-3xl">Nurturing mind, body and soul</h2>
             </div>
             <div className="space-y-4 leading-8 text-ink/75">

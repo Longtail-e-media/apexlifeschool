@@ -17,6 +17,14 @@ interface ApiSlideGroup {
   }[];
 }
 
+/** First video URL from the `slideshow` API's `mediaType: "video"` group. */
+export async function getSlideshowVideo(): Promise<string | undefined> {
+  const groups = await fetchAPI<ApiSlideGroup[]>("slideshow");
+  const group = groups?.find((g) => g.mediaType === "video");
+  const item = group?.items?.find((s) => s.src || s.video);
+  return item?.src ?? item?.video;
+}
+
 export async function getSlideshow(): Promise<HeroSlide[]> {
   const groups = await fetchAPI<ApiSlideGroup[]>("slideshow");
   const items = groups?.[0]?.items ?? [];

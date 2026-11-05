@@ -13,8 +13,6 @@ export const metadata: Metadata = {
       "Apply to Apex Life School, Chabahil, Kathmandu. Fill in the admission inquiry form — child’s details, interested grade and parent’s contact — and our team will get in touch with you shortly.",
     path: "/admission-form",
   }),
-  // Not linked from anywhere yet (Apply buttons use the vendor form) — keep it out of search until it goes live.
-  robots: { index: false, follow: true },
 };
 
 const tel = (p: string) => `tel:${p.replace(/[^+\d]/g, "")}`;

@@ -23,7 +23,7 @@ export default async function About() {
         </div>
 
         <div>
-          <p className="font-hand text-2xl leading-none text-maroon">About us</p>
+          <p className="font-hand text-5xl leading-none text-maroon">About us</p>
           <h2 className="mt-1 font-display text-2xl font-semibold leading-snug sm:text-3xl">A school with a story, and room to grow</h2>
           <p className="mt-4 leading-7 text-ink/75">{about.summary}</p>
           <Link href="/about-us" className="mt-5 inline-flex items-center gap-2 text-sm font-bold text-maroon hover:gap-3">

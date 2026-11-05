@@ -22,7 +22,7 @@ export const brand = {
   facebook: social.find((s) => s.name === "facebook")?.href,
   youtube: social.find((s) => s.name === "youtube")?.href,
   x: social.find((s) => s.name === "x")?.href,
-  admissionForm: "https://www.ingrails.com/school/admission/form/apex-life-school",
+  admissionForm: "/admission-form",
   eDigitalApply: "https://edigitalnepal.com/g/apply/apex",
   prospectus: "/apex/docs/RHQSn1dsToQ7Br78-1742204737.pdf",
   playStore: "https://play.google.com/store/apps/details?id=com.edigitalnepal.apex&hl=en",

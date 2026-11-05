@@ -53,7 +53,7 @@ export default async function AboutPage() {
       {/* Milestones are the CMS articles slugged "milestone-N" (year = article subtitle). The old site's timeline years contradicted the 2040 BS founding, so they were dropped. */}
       <section className="border-y border-ink/10 bg-white py-14 sm:py-20">
         <div className="mx-auto max-w-4xl px-4 sm:px-6">
-          <p className="font-hand text-2xl leading-none text-maroon">Milestones</p>
+          <p className="font-hand text-5xl leading-none text-maroon">Milestones</p>
           <h2 className="mt-1 font-display text-2xl font-semibold sm:text-3xl">Moments that shaped us</h2>
           <ol className="mt-10 space-y-0 border-l-2 border-dashed border-maroon/30 pl-8">
             {history.map((h, i) => (

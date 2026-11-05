@@ -70,20 +70,10 @@ export default async function SlugPage({ params }: PageProps) {
         title={title}
         eyebrow={subtitle || "Apex Life School"}
         crumbs={[{ name: "Home", href: "/" }, { name: title }]}
+        {...(image ? { image } : {})}
       />
 
       <section className="mx-auto max-w-4xl px-4 py-14 sm:px-6 sm:py-20">
-        {image && (
-          <div className="mb-12 overflow-hidden rounded-md shadow-lg ring-1 ring-ink/10">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={image}
-              alt={title}
-              className="w-full h-auto object-cover"
-            />
-          </div>
-        )}
-
         <div
           className="prose prose-slate max-w-none leading-relaxed text-ink/80 [&_h2]:font-display [&_h2]:text-maroon [&_h3]:font-display [&_h3]:text-maroon [&_a]:text-maroon [&_a]:underline [&_a:hover]:text-maroon-deep"
           dangerouslySetInnerHTML={{ __html: content }}

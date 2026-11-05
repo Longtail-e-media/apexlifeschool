@@ -67,7 +67,7 @@ export default async function CurriculumPage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6">
           {methods && methods.length > 0 && (
             <>
-              <p className="font-hand text-2xl leading-none text-maroon">How we teach</p>
+              <p className="font-hand text-5xl leading-none text-maroon">How we teach</p>
               <h2 className="mt-1 font-display text-2xl font-semibold sm:text-3xl">Teaching and learning methods</h2>
 
               <ul className="mt-10 grid gap-6 md:grid-cols-3">
