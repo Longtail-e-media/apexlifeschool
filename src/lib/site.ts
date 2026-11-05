@@ -15,9 +15,9 @@ export const brand = {
 
   const social = await getSocial();
 
-  
-  
-  
+
+
+
   export const links = {
   facebook: social.find((s) => s.name === "facebook")?.href,
   youtube: social.find((s) => s.name === "youtube")?.href,
@@ -25,7 +25,7 @@ export const brand = {
   admissionForm: "/admission-form",
   eDigitalApply: "https://edigitalnepal.com/g/apply/apex",
   prospectus: "/apex/docs/RHQSn1dsToQ7Br78-1742204737.pdf",
-  playStore: "https://play.google.com/store/apps/details?id=com.edigitalnepal.apex&hl=en",
+  playStore: "https://play.google.com/store/apps/details?id=com.smart.als",
   appStore: "https://apps.apple.com/us/app/apex-life-school/id1614213522",
   playStoreBadge: "/apex/icons/DrsFWXwDQco5x3oK-1741064037.png",
   appStoreBadge: "/apex/icons/TbM1IW2BQxGdpWys-1741064037.png",

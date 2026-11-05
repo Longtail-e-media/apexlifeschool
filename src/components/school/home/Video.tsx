@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 
-const HEADLINE = "Where every child is known by name.";
+const HEADLINE = "welcome to apex life school Where every child is known by name.";
 
 const FALLBACK_VIDEO = "/apex/video/xTqwM8R.mp4";
 
@@ -105,6 +105,9 @@ export default function Video({ src }: { src?: string }) {
             aria-label={HEADLINE}
             className="flex flex-col items-center font-hand font-bold leading-none text-white drop-shadow-lg will-change-transform"
           >
+            <span aria-hidden className="text-6xl sm:text-5xl lg:text-2xl">
+            Welcome to Apex Life School
+            </span>
             <span aria-hidden className="text-4xl sm:text-5xl lg:text-6xl">
               Where every child is
             </span>
@@ -115,7 +118,7 @@ export default function Video({ src }: { src?: string }) {
               </span>
             </span>
             <span aria-hidden className="relative inline-block text-5xl sm:text-6xl lg:text-7xl">
-              by name.
+              by name
               <svg
                 viewBox="0 0 300 14"
                 preserveAspectRatio="none"

@@ -64,10 +64,10 @@ export default async function SiteHeader() {
           <Logo priority />
           <div className="flex items-center gap-3">
             <ApplyLink
-              href="#"
+              href="https://als.mpathshala.com/"
               className="hidden rounded-md bg-maroon px-5 py-2.5 text-sm font-bold text-paper transition hover:bg-maroon-deep sm:block"
             >
-              Apply now
+              Login
             </ApplyLink>
             <MenuOverlay menu={mainMenu} phones={phones} email={email ?? ""} address={address ?? ""} hours={hours ?? ""} />
           </div>
