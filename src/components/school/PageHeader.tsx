@@ -44,15 +44,25 @@ export default async function PageHeader({
   return (
     <section>
       <JsonLd schema={schema} />
-      <div className="relative isolate overflow-hidden bg-maroon-deep text-paper">
+            <div className="relative isolate overflow-hidden bg-maroon-deep text-paper">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={image} alt="" className="absolute inset-0 -z-20 h-full w-full object-cover" />
-        <div className="absolute inset-0 -z-10 bg-maroon-deep/70" aria-hidden="true"></div>
-        <div className="mx-auto flex min-h-[80vh] max-w-7xl flex-col px-4 pb-16 pt-6 sm:px-6">
-
-          <h1 className="my-auto py-6 text-center font-display text-4xl font-bold uppercase leading-tight tracking-widest sm:text-6xl">
+        <img
+          src={image}
+          alt=""
+          fetchPriority="high"
+          decoding="async"
+          className="absolute inset-0 -z-20 h-full w-full object-cover object-[center_30%]"
+        />
+        {/* photo stays clean at the top; the shade builds toward the bottom where the title sits */}
+        <div
+          className="absolute inset-0 -z-10 bg-linear-to-b from-maroon-deep/0 via-maroon-deep/20 to-maroon-deep/85"
+          aria-hidden="true"
+        />
+        <div className="mx-auto flex min-h-[80vh] max-w-7xl flex-col items-center justify-end px-4 pb-20 pt-24 text-center sm:px-6">
+          <h1 className="max-w-4xl text-balance text-3xl font-bold uppercase leading-tight tracking-wider drop-shadow-lg sm:text-5xl lg:text-6xl">
             {title}
           </h1>
+          <span aria-hidden="true" className="mt-6 block h-1.5 w-20 rounded-full bg-sun" />
         </div>
       </div>
 
